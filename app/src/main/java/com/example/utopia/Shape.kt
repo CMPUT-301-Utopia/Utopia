@@ -6,7 +6,3 @@ open class Shape (
 ){
 
 }
-
-class Parallelogram: Shape(1, 2) {
-
-}
