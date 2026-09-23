@@ -1,4 +1,8 @@
 package com.example.utopia
 
-class Shape {
+open class Shape (
+    x: Int,
+    y: Int
+){
+
 }
