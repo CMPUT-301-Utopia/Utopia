@@ -4,6 +4,5 @@ open class Shape (
     x: Int,
     y: Int
 ){
-    val color: String = "blue"
-
+    val color: String = "Blue"
 }
